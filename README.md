@@ -26,19 +26,24 @@ Currently studying a career in *Computer Sciences*. I speak the following langua
 * French
 * Portuguese
 
-Here's a table of commands that we've discussed yesterday during our first class in the UndefinedShell Full-Stack Bootcamp:
+## Main technologies: 
+I'm currently working to become a Software Engineer, my main focus lies in learning Advanced Programming, Data Structures, Software Engineering Principles, Applied AI and Cybersecurity Solutions. 
+* Python for Data Science/Machine Learning
+* Django for Web Development
+* Java 
+* Linux and Windows SysAdmin
+* Information Security Fundamentals
+* Networking Fundamentals
+* Advanced IT / Tech Support
+* Troubleshooting methodology
 
-#**Section 1: Useful commands**
-| Command (linux )| Description |
-| :---: | :---: |
-| pwd  | (print working directory): Displays the current directory you are in. |
-| cd | (change directory): Allows you to change to a different directory. |
-| ls | (list): Displays a list of files and directories in the current directory. |
-| mkdir | (make directory): Creates a new directory. |
-| touch | Creates a new empty file. |
+## Soft Skills:
+I worked in IT for 5 years, which allowed me to develop a series of user/customer handling skills and team work, which include: 
+* Active listening
+* Attention to detail
+* Leadership
+* Dependability
+* Sense of urgency
+* Communication and planning skills
 
-## **Section 2: Useful aliases** 
-| Alias | Definition |
-| :----:| :---------:|
-| alias ll='ls -alh' |  - Displays a detailed list of files and directories in the current directory. |
-| alias rm='rm -i' |  - Adds the i option to the rm command to prompt the user before deleting a file. |
+
